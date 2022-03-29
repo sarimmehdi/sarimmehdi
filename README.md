@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on MEMEX
+- 🌱 I’m currently learning Android app development in Kotlin (already know how to do it in Java)
+- 👯 I’m looking to collaborate on open source projects related to computer vision or just anything Python-related
+- 🤔 I’m looking for help with Android app development 😄
+- 💬 Ask me about Android app development, computer vision, and general python questions
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarimmehdi550/)
+- 😄 Pronouns: He/ him
