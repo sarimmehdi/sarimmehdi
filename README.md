@@ -1,23 +1,12 @@
-### Hi there 👋
-
-<!--
-**sarimmehdi/sarimmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on MEMEX
-- 🌱 I’m currently learning Android app development in Kotlin (already know how to do it in Java)
-- 👯 I’m looking to collaborate on open source projects related to computer vision or just anything Python-related
-- 🤔 I’m looking for help with Android app development 😄
-- 💬 Ask me about Android app development, computer vision, and general python questions
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarimmehdi550/)
-- 😄 Pronouns: He/ him
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/sarimmehdi550/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCdUFmCEPdPW2hjbvbqMKEaQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=sarimmehdi&style=flat-square&color=blue" alt=""/>
+</div>
