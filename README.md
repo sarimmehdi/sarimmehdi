@@ -45,6 +45,11 @@ Enthusiastic about computer vision, augmented reality, and SLAM
 
 ---
 
+### 💻 Contributions :
+- [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics/commits?author=sarimmehdi)
+- [Darknet](https://github.com/AlexeyAB/darknet/commits?author=sarimmehdi)
+- [MarsLogger](https://github.com/OSUPCVLab/marslogger_android/commits?author=sarimmehdi)
+
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Sceneform Tutorial: How to detect different gestures on Nodes](https://medium.com/@sarim.mehdi.550/sceneform-tutorial-how-to-detect-different-gestures-on-nodes-5dafb5709354?source=rss-d7e00240d47------2)
