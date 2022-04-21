@@ -39,9 +39,9 @@ Enthusiastic about computer vision, augmented reality, and SLAM
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarimmehdi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Sarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimmehdi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimmehdi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimmehdi)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
