@@ -18,7 +18,7 @@
 ### :man_technologist: About Me
 I am a Mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Enthusiastic about mobile (android for now) development and maintaining and scaling large-scale apps
+Enthusiastic about mobile development and maintaining and scaling large-scale apps
 
 - :seedling: Love to learn Mobile development
 
