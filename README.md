@@ -50,6 +50,7 @@ Enthusiastic about mobile development and maintaining and scaling large-scale ap
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Paging for Non-Paginated backend](https://medium.com/@sarim.mehdi.550/paging-for-non-paginated-backend-3aec3b48a4ee?source=rss-d7e00240d47------2)
 - [Sceneform Tutorial: How to detect different gestures on Nodes](https://medium.com/@sarim.mehdi.550/sceneform-tutorial-how-to-detect-different-gestures-on-nodes-5dafb5709354?source=rss-d7e00240d47------2)
 - [Mapping &amp; Path-Following For a Two-Wheeled Robot](https://medium.com/@sarim.mehdi.550/mapping-path-following-for-a-two-wheeled-robot-b8bd55214405?source=rss-d7e00240d47------2)
 - [Trajectory Prediction for ADAS](https://medium.com/analytics-vidhya/trajectory-prediction-for-adas-d1210e01f15?source=rss-d7e00240d47------2)
