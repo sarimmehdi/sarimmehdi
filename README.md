@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/sarimmehdi550/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCdUFmCEPdPW2hjbvbqMKEaQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sarimmehdi&style=flat-square&color=blue" alt=""/>
 </div>
@@ -22,7 +19,7 @@ Enthusiastic about mobile development and maintaining and scaling large-scale ap
 
 - :seedling: Love to learn Mobile development
 
-- 🏃‍♂️: In my free time, I like to run (a lot)
+- :bike:: In my free time, I like to ride my bike
 
 ---
 
