@@ -1,54 +1,112 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/sarimmehdi550/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=sarimmehdi&style=flat-square&color=blue" alt=""/>
-</div>
+# Hello, I'm Muhammad Sarim Mehdi 👋
+
 <div align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="80"/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarimmehdi550/)
+  [![Profile Views](https://komarev.com/ghpvc/?username=sarimmehdi&style=for-the-badge&color=0077B5)](https://github.com/sarimmehdi)
 </div>
----
 
-### :man_technologist: About Me
-I am a Mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-Enthusiastic about mobile development and maintaining and scaling large-scale apps
-
-- :seedling: Love to learn Mobile development
-
-- :bike:: In my free time, I like to ride my bike
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="350" height="250"/>
 </div>
 
 ---
 
-### :fire: My Stats :
-[![Sarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimmehdi)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimmehdi)](https://github.com/anuraghazra/github-readme-stats)
+**Mobile Developer** passionate about creating exceptional user experiences and building scalable applications that make a difference.
+
+```kotlin
+class SarimMehdi : MobileDeveloper {
+    val currentFocus = "Android Development & Architecture"
+    val passions = listOf("Clean Code", "Performance Optimization", "User Experience")
+    val funFact = "I debug code better after a bike ride 🚴‍♂️"
+}
+```
+
+🎯 **What I Do:**
+- 📱 Build robust and scalable mobile applications
+- 🏗️ Design clean architectures that stand the test of time
+- 🔧 Optimize performance for millions of users
+- 📚 Share knowledge through technical writing and open source
 
 ---
 
-### 💻 Contributions :
-- [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics/commits?author=sarimmehdi)
-- [Darknet](https://github.com/AlexeyAB/darknet/commits?author=sarimmehdi)
-- [MarsLogger](https://github.com/OSUPCVLab/marslogger_android/commits?author=sarimmehdi)
+## 🛠️ Tech Stack
 
-### :writing_hand: Blog Posts :
+<div align="center">
+  
+### Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools & Frameworks
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarimmehdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimmehdi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarimmehdi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🌟 Open Source Contributions
+
+I believe in giving back to the community. Here are some projects I've contributed to:
+
+| Project | Description | My Contribution |
+|---------|-------------|-----------------|
+| [**Python Robotics**](https://github.com/AtsushiSakai/PythonRobotics/commits?author=sarimmehdi) | Python code collection for robotics algorithms | Algorithm implementations & optimizations |
+| [**Darknet**](https://github.com/AlexeyAB/darknet/commits?author=sarimmehdi) | Neural network framework | Performance improvements & bug fixes |
+| [**MarsLogger**](https://github.com/OSUPCVLab/marslogger_android/commits?author=sarimmehdi) | Android logging framework for research | Core functionality & Android integration |
+
+---
+
+## ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Automate Android App Translations Across All Modules with TranslateGenie](https://medium.com/@sarim.mehdi.550/building-a-custom-gradle-task-for-automated-android-app-translations-d2f06ac084dd?source=rss-d7e00240d47------2)
-- [A Journey with KSP and KotlinPoet](https://blog.kotlin-academy.com/a-journey-with-ksp-and-kotlinpoet-9eb8dd1333ac?source=rss-d7e00240d47------2)
-- [Paging for Non-Paginated backend](https://medium.com/@sarim.mehdi.550/paging-for-non-paginated-backend-3aec3b48a4ee?source=rss-d7e00240d47------2)
-- [Sceneform Tutorial: How to detect different gestures on Nodes](https://medium.com/@sarim.mehdi.550/sceneform-tutorial-how-to-detect-different-gestures-on-nodes-5dafb5709354?source=rss-d7e00240d47------2)
+- [**Automate Android App Translations Across All Modules with TranslateGenie**](https://medium.com/@sarim.mehdi.550/building-a-custom-gradle-task-for-automated-android-app-translations-d2f06ac084dd) - *Building efficient tooling for multilingual apps*
+- [**A Journey with KSP and KotlinPoet**](https://blog.kotlin-academy.com/a-journey-with-ksp-and-kotlinpoet-9eb8dd1333ac) - *Deep dive into Kotlin Symbol Processing*
+- [**Paging for Non-Paginated Backend**](https://medium.com/@sarim.mehdi.550/paging-for-non-paginated-backend-3aec3b48a4ee) - *Creative solutions for pagination challenges*
+- [**Sceneform Tutorial: Gesture Detection on AR Nodes**](https://medium.com/@sarim.mehdi.550/sceneform-tutorial-how-to-detect-different-gestures-on-nodes-5dafb5709354) - *Enhancing AR experiences with intuitive interactions*
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+I'm always excited to collaborate on interesting projects or discuss the latest in mobile development!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarimmehdi550/)
+[![Medium](https://img.shields.io/badge/Medium-Follow_Me-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarim.mehdi.550)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/sarimmehdi">sarimmehdi</a> with ❤️</i>
+</div>
