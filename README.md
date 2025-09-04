@@ -82,10 +82,10 @@ I believe in giving back to the community. Here are some projects I've contribut
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [**Automate Android App Translations Across All Modules with TranslateGenie**](https://medium.com/@sarim.mehdi.550/building-a-custom-gradle-task-for-automated-android-app-translations-d2f06ac084dd) - *Building efficient tooling for multilingual apps*
-- [**A Journey with KSP and KotlinPoet**](https://blog.kotlin-academy.com/a-journey-with-ksp-and-kotlinpoet-9eb8dd1333ac) - *Deep dive into Kotlin Symbol Processing*
-- [**Paging for Non-Paginated Backend**](https://medium.com/@sarim.mehdi.550/paging-for-non-paginated-backend-3aec3b48a4ee) - *Creative solutions for pagination challenges*
-- [**Sceneform Tutorial: Gesture Detection on AR Nodes**](https://medium.com/@sarim.mehdi.550/sceneform-tutorial-how-to-detect-different-gestures-on-nodes-5dafb5709354) - *Enhancing AR experiences with intuitive interactions*
+- [Automate Android App Translations Across All Modules with TranslateGenie](https://medium.com/@sarim.mehdi.550/building-a-custom-gradle-task-for-automated-android-app-translations-d2f06ac084dd?source=rss-d7e00240d47------2)
+- [A Journey with KSP and KotlinPoet](https://blog.kotlin-academy.com/a-journey-with-ksp-and-kotlinpoet-9eb8dd1333ac?source=rss-d7e00240d47------2)
+- [Paging for Non-Paginated backend](https://medium.com/@sarim.mehdi.550/paging-for-non-paginated-backend-3aec3b48a4ee?source=rss-d7e00240d47------2)
+- [Sceneform Tutorial: How to detect different gestures on Nodes](https://medium.com/@sarim.mehdi.550/sceneform-tutorial-how-to-detect-different-gestures-on-nodes-5dafb5709354?source=rss-d7e00240d47------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
