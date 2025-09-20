@@ -48,7 +48,7 @@ class SarimMehdi : MobileDeveloper {
 
 ### Tools & Frameworks
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
