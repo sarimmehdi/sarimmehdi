@@ -18,7 +18,7 @@
 **Mobile Developer** passionate about creating exceptional user experiences and building scalable applications that make a difference.
 
 ```kotlin
-class SarimMehdi : MobileDeveloper {
+class MuhammadSarimMehdi : MobileDeveloper {
     val currentFocus = "Android Development & Architecture"
     val passions = listOf("Clean Code", "Performance Optimization", "User Experience")
     val funFact = "I debug code better after a bike ride 🚴‍♂️"
