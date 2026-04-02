@@ -85,7 +85,7 @@ I believe in giving back to the community. Here are some projects I've contribut
 <!-- BLOG-POST-LIST:START -->
 - [How to calculate your German pension](https://medium.com/@sarim.mehdi.550/how-to-calculate-your-german-pension-d5e56c86f9f0?source=rss-d7e00240d47------2)
 - [Automate Android App Translations Across All Modules with TranslateGenie](https://medium.com/@sarim.mehdi.550/building-a-custom-gradle-task-for-automated-android-app-translations-d2f06ac084dd?source=rss-d7e00240d47------2)
-- [A Journey with KSP and KotlinPoet](https://blog.kotlin-academy.com/a-journey-with-ksp-and-kotlinpoet-9eb8dd1333ac?source=rss-d7e00240d47------2)
+- [A Journey with KSP and KotlinPoet](https://medium.com/@sarim.mehdi.550/a-journey-with-ksp-and-kotlinpoet-9eb8dd1333ac?source=rss-d7e00240d47------2)
 - [Paging for Non-Paginated backend](https://medium.com/@sarim.mehdi.550/paging-for-non-paginated-backend-3aec3b48a4ee?source=rss-d7e00240d47------2)
 <!-- BLOG-POST-LIST:END -->
 
